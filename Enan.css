@@ -1,0 +1,89 @@
+.background{
+	background-color: #0B9C9C;
+}
+
+.h1{
+	text-align: center;
+	font-size: 60px;
+	color: #FFFFFF;
+	text-shadow: 4px 4px #000000;
+}
+
+.image{
+	border-radius: 8px;
+	max-width: 100%;
+    height: auto;
+    padding: 2px;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 2), 0 6px 20px 0 rgba(0, 0, 0, 2);
+	
+}
+.div1{
+	border: 1px solid transparent;
+	border-color: transparent;
+}
+
+.p1{
+	padding-left: 50%;
+	padding-top: 5%;
+	font-size: 25px;
+}
+
+.h2{
+	padding-top: 20%;
+	text-decoration: underline;
+	color: 
+}
+
+.p2{
+	font-size: 25px;
+}
+
+.header{
+	text-align: center;
+	font-size: 30px; 
+	color: white;
+	text-decoration: underline;
+}
+
+.divschool{
+	width: 333px;
+    height: 200px;
+    padding: 5px;
+    margin-right: 20px;
+    float: left;
+    background-color:transparent; 
+    border-right: thin solid white;
+}
+
+.divcollege{
+	width: 450px;
+    height: 200px;
+    padding: 5px;
+    margin-right: 20px;
+    float: left;
+    background-color:transparent; 
+    border-right: thin solid white;
+}
+
+.divversity{
+	width: 450px;
+    height: 200px;
+    padding: 5px;
+    margin-right: 20px;
+    float: left;    
+    background-color:transparent; 
+}
+
+.pAcademic{
+	font-size: 20px;
+	color: black;
+	text-align: left;
+}
+
+.Contact{
+	width: 1338px;
+	height: 70px;
+	border: 1px solid blue;
+    background-color: rgba(44,57,75,1); 
+}
