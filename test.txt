@@ -1,11 +1,12 @@
 hey enan,what is up?
 
-don't be afraid.I'm learning the fork system in guthub.
+don't be afraid.I'm learning the fork system in github.
 
 I want to contribute to your nice portfolio..
-you know what?I can make pizza...
+you know what?
+I can make pizza...
 
-let me teach you how to do this,
+let me teach you how to do this..
 
 1.go to pizzahut.com
 2.select a yammy pizza
@@ -14,3 +15,5 @@ let me teach you how to do this,
 you see?thats it
 
 thank you bro
+
+commit for the first time
